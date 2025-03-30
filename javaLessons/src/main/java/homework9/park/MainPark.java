@@ -1,7 +1,5 @@
 package homework9.park;
 
-import homework9.payment.Payment;
-
 public class MainPark {
     public static void main(String[] arg) {
         Park park = new Park();
